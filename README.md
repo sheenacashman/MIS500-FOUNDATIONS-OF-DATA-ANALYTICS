@@ -1,0 +1,2 @@
+# MIS500-FOUNDATIONS-OF-DATA-ANALYTICS
+class assignments 
